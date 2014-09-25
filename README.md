@@ -6,7 +6,7 @@ My first software
 
 ### Welcome to the repository
 
-Feel free to access this file on [my prtfolio](https://www.udemy.com/comprehensive-ruby-on-rails/#/).
+Feel free to access this file on [my portfolio](https://www.udemy.com/comprehensive-ruby-on-rails/#/).
 
 > ## Donec pulvinar, augue sed mollis
 >
@@ -16,7 +16,7 @@ Feel free to access this file on [my prtfolio](https://www.udemy.com/comprehensi
 >
 > This on is **BOLD**
 
-### Othe Headline
+### Other Headline
 * this is with star
 + this is with plus sign
 - this is with minuus sign
